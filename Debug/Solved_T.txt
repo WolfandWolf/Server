@@ -1,0 +1,26 @@
+Bolshe kapital
+3
+Bolshe agentob
+75000
+Franshiza
+90000
+Reklama
+45000
+Bolshe oborot
+2
+Bolshe stavka
+135000
+Reklama
+175000
+Test
+2
+Test
+35
+Test
+17
+office
+2
+bolshe deneg
+4500
+none
+1000

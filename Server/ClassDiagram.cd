@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="User">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQAAEAAAAAACAIAAAAAAAABEAAAQAAAgAAEIA=</HashCode>
+      <FileName>Server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insurance">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCBAAAAAAAAAAAAgCAAARAAABABAABAAQAEAAEQAAA=</HashCode>
+      <FileName>Server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAgAAIAIAAAAAAAAAAEAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Solution">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAACAAAAgAAIAIAAAAAAAAAAEAACAAAAAAAAAAEA=</HashCode>
+      <FileName>Server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
